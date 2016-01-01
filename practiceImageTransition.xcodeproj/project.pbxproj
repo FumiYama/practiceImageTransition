@@ -14,6 +14,7 @@
 		3288A1BB1C369536006E9016 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3288A1B91C369536006E9016 /* LaunchScreen.storyboard */; };
 		3288A1C61C369536006E9016 /* practiceImageTransitionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3288A1C51C369536006E9016 /* practiceImageTransitionTests.swift */; };
 		3288A1D11C369536006E9016 /* practiceImageTransitionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3288A1D01C369536006E9016 /* practiceImageTransitionUITests.swift */; };
+		3288A1DF1C36971A006E9016 /* sample.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3288A1DE1C36971A006E9016 /* sample.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3288A1CC1C369536006E9016 /* practiceImageTransitionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = practiceImageTransitionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3288A1D01C369536006E9016 /* practiceImageTransitionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practiceImageTransitionUITests.swift; sourceTree = "<group>"; };
 		3288A1D21C369536006E9016 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3288A1DE1C36971A006E9016 /* sample.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		3288A1AF1C369536006E9016 /* practiceImageTransition */ = {
 			isa = PBXGroup;
 			children = (
+				3288A1DE1C36971A006E9016 /* sample.jpg */,
 				3288A1B01C369536006E9016 /* AppDelegate.swift */,
 				3288A1B21C369536006E9016 /* ViewController.swift */,
 				3288A1B41C369536006E9016 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				3288A1BB1C369536006E9016 /* LaunchScreen.storyboard in Resources */,
 				3288A1B81C369536006E9016 /* Assets.xcassets in Resources */,
 				3288A1B61C369536006E9016 /* Main.storyboard in Resources */,
+				3288A1DF1C36971A006E9016 /* sample.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
